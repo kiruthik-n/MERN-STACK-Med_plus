@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16da0fb7.css",
+    "main.js": "/static/js/main.602559a8.js",
+    "static/media/hospital.gif": "/static/media/hospital.0dfb2ca99fcbcdbcd109.gif",
+    "static/media/building.jpg": "/static/media/building.60e99e460fea67c134fa.jpg",
+    "static/media/experienced2.jpg": "/static/media/experienced2.65ceced90954f4dd99f9.jpg",
+    "static/media/building2.jpg": "/static/media/building2.1a6f83e559b855b67f1d.jpg",
+    "static/media/surgery2.jpg": "/static/media/surgery2.b7e9dd6c00f46eb038de.jpg",
+    "static/media/rooms.jpg": "/static/media/rooms.3496633262fde7f47e11.jpg",
+    "static/media/lab.jpg": "/static/media/lab.44d5226199068b4f0436.jpg",
+    "static/media/back.jpg": "/static/media/back.0ab6f22d7a72afaf154d.jpg",
+    "static/media/doctoravatar.png": "/static/media/doctoravatar.47004e05142df94da262.png",
+    "static/media/MEDC+ (1).png": "/static/media/MEDC+ (1).7c70b52863ff4427bcb1.png",
+    "static/media/seal2.png": "/static/media/seal2.de35aef7ea81164ec090.png",
+    "index.html": "/index.html",
+    "main.16da0fb7.css.map": "/static/css/main.16da0fb7.css.map",
+    "main.602559a8.js.map": "/static/js/main.602559a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16da0fb7.css",
+    "static/js/main.602559a8.js"
+  ]
+}
